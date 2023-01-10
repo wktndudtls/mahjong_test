@@ -1,3 +1,4 @@
-./train_data/*
-./temp
-./test_video.mp4
+train_data/*
+temp
+test_video.mp4
+dumn2.PNG
