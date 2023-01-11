@@ -1,3 +1,5 @@
+# test_video.mp4 파일 필요
+
 # mahjong_test
 삭 = s
 만 = m
