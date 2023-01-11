@@ -1,5 +1,7 @@
+test_video.mp4 파일 필요
+
 # mahjong_test
-삭 = s
+삭 = s 
 만 = m
 통 = p
 적도라 = r
@@ -42,4 +44,4 @@ ww = 32
 nw = 33
 wd = 34
 gd = 35
-rd = 36"# mahjong_test" 
+rd = 36
